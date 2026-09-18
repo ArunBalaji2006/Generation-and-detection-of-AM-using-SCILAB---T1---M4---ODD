@@ -94,7 +94,8 @@ Compare the original modulating signal with the demodulated signal.
 
 
 
-RESULT: Thus the amplitude modulation and demodulation is experimentally done and the output is verified. 
+## RESULT: 
+Thus the amplitude modulation and demodulation is experimentally done and the output is verified. 
 
 
 
